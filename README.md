@@ -2,7 +2,9 @@
 
 ## Project Landing 📝
  🚀 Welcome to Marwa_Sadat_  Developer's Build a Product Landing page  ! 🚀
+
 "Our Product Landing Page 🌟 is meticulously crafted to showcase our innovative solutions and unique features. With a sleek design and intuitive layout, it provides an exceptional user experience 📱. Explore our cutting-edge technologies and discover how they can transform your workflow 🔄. Detailed product descriptions, high-quality visuals 📷, and customer testimonials 🗣 offer a comprehensive understanding of the benefits. Engage with interactive demos and find out why our product is the ideal choice for professionals seeking efficiency and excellence 🏆. Trust us to deliver outstanding quality and performance 🌐."
+
 
 ## Demo 📸
 
@@ -15,7 +17,7 @@ Examples:
 
 ## Installation 💻
 # (bash) 
-# git clone (https://github.com/Marwa-Sadat/Documentaion_page.git)
+# git clone (https://github.com/Marwa-Sadat/Landing_page/pull/1)
 
 vscode
 github
