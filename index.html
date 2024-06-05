@@ -1,11 +1,43 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Landing Page</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    
+  <header id="header">
+    <img id="header-img" src="logo.png" alt="Product Logo">
+    <nav id="nav-bar">
+      <a href="#about" class="nav-link">About</a>
+      <a href="#features" class="nav-link">Features</a>
+      <a href="#contact" class="nav-link">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h1>About Our Product</h1>
+    <p>Learn more about our amazing product!</p>
+  </section>
+
+  <section id="features">
+    <h1>Features</h1>
+    <p>Discover the features of our product.</p>
+    <div>
+      <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h1>Contact Us</h1>
+    <form id="form" action="https://www.freecodecamp.com/email-submit" method="post">
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" placeholder="Enter your email address" required>
+      <input type="submit" id="submit" value="Submit">
+    </form>
+  </section>
 </body>
 </html>
