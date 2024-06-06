@@ -8,7 +8,7 @@
 
 ## Demo 📸
 
-![Demo](https://github.com/Marwa-Sadat/Documentaion_page/assets/168111110/6e3604b5-0854-4e36-98c6-8e82373b16f3)
+![Demo](https://github.com/Marwa-Sadat/Landing_page/assets/168111110/a036ba02-9090-4cec-acec-005975e91fbe)
 
 ## Technologies Used 🛠
 Examples:
