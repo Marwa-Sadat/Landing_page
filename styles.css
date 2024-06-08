@@ -14,10 +14,9 @@ body {
   padding: 10px 20px;
   border-bottom: 3px solid #c71585;
   position: fixed;
-  width: 100%; 
-
-  top: 0; 
-  z-index: 1000; 
+  width: 100%;
+  top: 0;
+  z-index: 1000;
 }
 
 #header-img {
@@ -40,7 +39,7 @@ body {
 }
 
 section {
-  padding: 80px 20px 20px 20px; 
+  padding: 80px 20px 20px 20px;
   margin: 20px;
   border: 2px solid #c71585;
   border-radius: 10px;
